@@ -22,6 +22,7 @@ You may send the request multiple times, as only new data will be stored in the 
 - Java 17 with Spring Boot v3.3.3
   - Spring Web
   - Spring Data JPA
+  - Validation
   - Lombok
   - Postgres Driver
   - Docker Compose Support
