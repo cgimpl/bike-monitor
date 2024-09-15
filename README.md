@@ -1,6 +1,5 @@
 # bike-monitor
 
----
 > A Spring Boot application that provides a REST API to determine bicycle traffic volume at a specific location and time
 
 Users can fetch data from the external api, store it in the configured database, and query the data.
